@@ -6,6 +6,9 @@ import time     # Para esperar a que cargue la pantalla despues de perder una vi
 import os       # Para acceder a directorios
 from tkinter import messagebox
 
+
+# Estoy cambiando cosas
+
 # Iniciar Pygame
 pygame.init()
 
