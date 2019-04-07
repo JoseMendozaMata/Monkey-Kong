@@ -1,0 +1,10 @@
+- Mixer de pygame, utilizarlo para poner playback
+- Threads para el sonido, ya que sino no sirve
+- Uso de rectangulos de pygame para más comodidad
+
+- Problemas/Solución:
+
+* Vizualizar movimiento / ventana.fill() y ventana.flip()
+* Mover rectangulos / .move() y colisiones entre rectangulos .colliderect(), .collidelist()
+* Saltos entre plataformas / .colliderect()
+* Guardar y cargar configuración / Uso de archivos de texto
